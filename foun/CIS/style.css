@@ -1,0 +1,11 @@
+.NumOneFive { color : black; background-color:lightcoral;
+     font: verdana, sans-serif; font-size: 18px; }
+
+#NumThree { color : black; background-color:lightcoral;
+    font: verdana; font-size: 24px;}
+
+#NumSec { color : blue; 
+        font: verdana; font-size: 36px;}
+
+#NumFour{ color : black; background-color:lightgreen;
+            font: verdana; font-size: 24px; font-weight: bold;}
